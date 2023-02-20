@@ -1,3 +1,6 @@
 [submodule "TeX/LuaLaTeX/Code"]
 	path = TeX/LuaLaTeX/Code
 	url = https://gist.github.com/NXVZBGBFBEN/9801c3f29b7937a8d748043b37958b84
+[submodule "TeX/LuaLaTeX/Report_standard"]
+	path = TeX/LuaLaTeX/Report_standard
+	url = https://gist.github.com/NXVZBGBFBEN/c6b71ebb32b4f8255685781a8bd804b3
